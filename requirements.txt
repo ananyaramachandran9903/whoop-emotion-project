@@ -1,0 +1,17 @@
+# Phase 1-2: collection
+requests
+pandas
+jupyter
+tqdm
+
+# Phase 3: cleaning
+langdetect
+
+# Phase 3-4: emotion model and topics
+transformers
+torch
+bertopic
+
+# Phase 4: charts
+matplotlib
+plotly

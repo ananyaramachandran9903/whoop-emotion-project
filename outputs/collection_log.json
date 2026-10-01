@@ -1,0 +1,76 @@
+{
+  "run_at_utc": "2026-10-01T03:03:04+00:00",
+  "source": "Arctic Shift API (arctic-shift.photon-reddit.com)",
+  "window": {
+    "start": "2025-09-28",
+    "end": "2026-09-28"
+  },
+  "settings": {
+    "posts_per_week": 20,
+    "comments_per_week": 25,
+    "extra_slices": 2,
+    "extra_slices_filtered": 4,
+    "seed": 42,
+    "fitness_filter": [
+      "AppleWatch"
+    ],
+    "stage_patterns": {
+      "considering": [
+        "should i (?:buy|get)",
+        "worth it",
+        "thinking (?:of|about) getting"
+      ],
+      "first_weeks": [
+        "just got",
+        "first (?:week|few days|month)",
+        "new to"
+      ],
+      "cancelling": [
+        "cancel(?:l?ed|l?ing)?",
+        "returned",
+        "returning",
+        "switch(?:ed|ing) to",
+        "membership ended",
+        "refund"
+      ]
+    },
+    "boost_per_week": 15
+  },
+  "skipped_slices": [
+    {
+      "subreddit": "Garmin",
+      "endpoint": "comments/search",
+      "after": "2026-09-27"
+    }
+  ],
+  "raw_counts": {
+    "Apple Watch": {
+      "random_comment": 1325,
+      "random_post": 1060,
+      "stage_boost_comment": 68,
+      "stage_boost_post": 384,
+      "total": 2837
+    },
+    "Garmin": {
+      "random_comment": 1325,
+      "random_post": 1060,
+      "stage_boost_comment": 254,
+      "stage_boost_post": 740,
+      "total": 3379
+    },
+    "Oura": {
+      "random_comment": 1325,
+      "random_post": 1060,
+      "stage_boost_comment": 325,
+      "stage_boost_post": 716,
+      "total": 3426
+    },
+    "WHOOP": {
+      "random_comment": 1325,
+      "random_post": 1060,
+      "stage_boost_comment": 423,
+      "stage_boost_post": 712,
+      "total": 3520
+    }
+  }
+}
