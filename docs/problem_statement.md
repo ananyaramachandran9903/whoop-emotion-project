@@ -6,7 +6,7 @@
 
 Fitness wearables promise empowerment: know your body, train smarter, sleep better. But the same data that motivates some people can make others anxious. A low recovery score, a "bad" night of sleep or an HRV dip can feel like a verdict instead of a guide. How people *feel* about their data may shape whether they buy a wearable, build a habit around it or walk away.
 
-This project asks: **which emotions are associated with adopting, keeping and abandoning a fitness wearable, and how could WHOOP build its brand around empowerment rather than anxiety?**
+This project asks: **which emotions are associated with adopting, keeping and abandoning a fitness wearable, and how could WHOOP build its brand around empowerment rather than uncertainty?**
 
 I analyze public Reddit discussion from the past 12 months (Sep 28, 2025 to Sep 28, 2026) in four brand communities: r/whoop (the focal brand) and r/ouraring, r/Garmin and r/AppleWatch (comparisons). A GoEmotions-trained language model labels the emotion in each post. Keyword rules tag the owner's stage (considering, first weeks, daily habit, cancelling) and the topic (sleep, recovery, HRV, price and subscription, and so on). The output is three insights and a one-page, empowerment-led campaign brief.
 
