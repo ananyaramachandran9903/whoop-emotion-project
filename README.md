@@ -1,8 +1,8 @@
-# Empowerment vs. Anxiety: The Emotions Behind Fitness Wearables
+#The Emotions Behind Fitness Wearables
 
 *An independent student project. Not affiliated with, sponsored by, or endorsed by WHOOP, Oura, Garmin or Apple.*
 
-**Question:** Which emotions are associated with adopting, keeping and abandoning a fitness wearable, and how could WHOOP build its brand around empowerment rather than anxiety?
+**Question:** Which emotions are associated with adopting, keeping and abandoning a fitness wearable, and how could WHOOP build its brand around empowerment rather than uncertainty?
 
 **Data:** 10,406 public Reddit posts and comments from r/whoop, r/ouraring, r/Garmin and r/AppleWatch, Sep 28, 2025 to Sep 28, 2026, collected through the [Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift) public Reddit archive.
 
@@ -85,4 +85,4 @@ Then run the notebooks in order:
 ## AI tools used
 
 - **Hugging Face model** ([SamLowe/roberta-base-go_emotions](https://huggingface.co/SamLowe/roberta-base-go_emotions)): emotion labels for every post.
-- **Claude (Anthropic)**: helped plan the project, write and debug the Python code, propose hand-check calls with a written reason for each (I reviewed every one), and draft the campaign brief. I made the research and creative decisions, including the hypotheses, the emotion groups, the campaign direction and the Sync Up name, and I checked every number that's reported.
+- **Claude (Anthropic)**: helped brainstorm strategy, debug the Python code, and polish the campaign brief. I made the research and creative decisions, including the hypotheses, the emotion groups, the campaign direction and the name, and I checked every number that's reported.
