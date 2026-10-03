@@ -1,4 +1,4 @@
-#The Emotions Behind Fitness Wearables
+# The Emotions Behind Fitness Wearables
 
 *An independent student project. Not affiliated with, sponsored by, or endorsed by WHOOP, Oura, Garmin or Apple.*
 
