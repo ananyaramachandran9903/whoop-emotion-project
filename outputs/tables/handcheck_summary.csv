@@ -1,0 +1,13 @@
+check,sample,n,correct,share_correct,what_was_checked
+Phase 3,random posts,20,15,0.75,emotion labels make sense
+Phase 4 round 1,random posts,20,16,0.80,emotion labels make sense
+Phase 4 round 1,random posts,20,17,0.85,stage tag right
+Phase 4 round 1,worry-word matches,10,5,0.50,real worry
+Phase 4 round 2 (after fixes),random posts,20,17,0.85,emotion labels make sense
+Phase 4 round 2 (after fixes),random posts,20,19,0.95,stage tag right
+Phase 4 round 2 (after fixes),worry-word matches,10,8,0.80,real worry
+Fresh worry check,worry-word matches never used for tuning,10,6,0.60,real worry
+Cancelling check (old rule),WHOOP cancelling posts,20,10,0.50,really leaving
+Cancelling check (old rule),Garmin cancelling posts,10,4,0.40,really leaving
+Fresh cancelling check (new rule),WHOOP cancelling posts,20,14,0.70,really leaving
+Fresh cancelling check (new rule),Garmin cancelling posts,10,2,0.20,really leaving

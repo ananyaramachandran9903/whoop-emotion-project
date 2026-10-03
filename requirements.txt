@@ -1,17 +1,13 @@
-# Phase 1-2: collection
+# Collection and cleaning
 requests
 pandas
-jupyter
-tqdm
-
-# Phase 3: cleaning
+numpy
 langdetect
 
-# Phase 3-4: emotion model and topics
+# Emotion model (Hugging Face)
 transformers
 torch
-bertopic
 
-# Phase 4: charts
+# Analysis and charts
 matplotlib
-plotly
+jupyter

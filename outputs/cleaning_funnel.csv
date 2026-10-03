@@ -1,0 +1,8 @@
+after_step,Apple Watch,Garmin,Oura,WHOOP,all_brands
+raw,2837,3379,3426,3520,13162
+duplicate_id,2837,3379,3426,3520,13162
+removed_deleted,2802,3242,3333,3429,12806
+bot_text,2802,3242,3333,3429,12806
+duplicate_text,2794,3235,3318,3409,12756
+under_15_words,2524,2545,2696,2663,10428
+non_english,2517,2538,2692,2659,10406

@@ -1,0 +1,9 @@
+hypothesis,group_a,n_a,share_a,group_b,n_b,share_b,difference_pts,z,p_value,enough_data,"supported (p<0.05, right direction, enough data)"
+H1 WHOOP: anxiety higher in first weeks than daily habit,first weeks,391,0.061381074168797956,daily habit,80,0.0875,-2.611892583120204,-0.8584044349397859,0.3906691795382665,True,False
+H1 all brands: anxiety higher in first weeks than daily habit,first weeks,1509,0.08880053015241882,daily habit,301,0.04983388704318937,3.8966643109229446,2.2458575094459334,0.02471313626911426,True,True
+H1b WHOOP: confusion higher in first weeks than daily habit,first weeks,391,0.21994884910485935,daily habit,80,0.1625,5.744884910485934,1.1490424970008934,0.2505384576091223,True,False
+H2 WHOOP: pride & joy higher in daily habit than first weeks,daily habit,80,0.075,first weeks,391,0.1278772378516624,-5.287723785166241,-1.3313569959350873,0.18307157241285657,True,False
+H3 cancelling posts give price as a reason: WHOOP vs Garmin,WHOOP,353,0.3626062322946176,Garmin,145,0.18620689655172415,17.639933574289344,3.8625139547603533,0.00011222615244804752,True,True
+H3 cancelling posts give price as a reason: WHOOP vs Apple Watch,WHOOP,353,0.3626062322946176,Apple Watch,101,0.2376237623762376,12.498246991837997,2.3469282011134496,0.018928901973300324,True,True
+H3 cancelling posts give price as a reason: WHOOP vs Oura,WHOOP,353,0.3626062322946176,Oura,216,0.2361111111111111,12.649512118350648,3.1534454149341244,0.0016135540136234534,True,True
+H3a all brands: frustration & disappointment higher in cancelling than other stages,cancelling,815,0.2147239263803681,other stages,2741,0.08500547245530828,12.971845392505982,10.201605347837322,1.9502193458044884e-24,True,True
